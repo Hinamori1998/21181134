@@ -1,2 +1,2 @@
 ##Hello.readme
-[wjh] (wjh.md)
+[wjh](wjh.md)
